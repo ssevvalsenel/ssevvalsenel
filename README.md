@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [myPortfolioWebsite](https://github.com/ssevvalsenel/myPortfolioWebsite/tree/main)
 
-- 🌱 I’m currently learning **Node.js, MongoDB**
+- 🌱 I’m currently learning **Asp.Net Core, Node.js, MongoDB**
 
 - 📫 How to reach me **ssevvalsenel@gmail.com**
 
